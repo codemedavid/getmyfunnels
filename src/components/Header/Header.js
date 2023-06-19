@@ -9,16 +9,16 @@ export const Header = () => {
  
   return (
   <div className="bg-black navigation">
-  <Navbar collapseOnSelect expand="lg" className="bg-black">
+  <Navbar collapseOnSelect expand="lg" className="bg-black"  >
       <Container>
         <Navbar.Brand href="#home"><img src={Logo} className='header__logo' alt="" /></Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-        <Navbar.Collapse id="responsive-navbar-nav">
+        <Navbar.Collapse id="responsive-navbar-nav" >
           <Nav className="me-auto">
-          <Nav.Link href="#home" className='text-white'>  <FontAwesomeIcon icon={faDesktop} /> Home</Nav.Link>
-            <Nav.Link href="#link"  className='text-white'> <FontAwesomeIcon icon={faUser} /> About Us</Nav.Link>
-            <Nav.Link href="#link"  className='text-white'> <FontAwesomeIcon icon={faPhone} /> Contact Us</Nav.Link>
-            <Nav.Link href="#sampleWorks"  className='text-white'> <FontAwesomeIcon icon={faBriefcase} /> Sample Works</Nav.Link>
+          <Nav.Link href="#home" className='text-white navlinks'>  <FontAwesomeIcon icon={faDesktop} /> Home</Nav.Link>
+            <Nav.Link href="#about"  className='text-white navlinks'> <FontAwesomeIcon icon={faUser} /> About Us</Nav.Link>
+            <Nav.Link href="#process"  className='text-white navlinks'> <FontAwesomeIcon icon={faPhone} /> Process</Nav.Link>
+            <Nav.Link href="#sampleWorks"  className='text-white navlinks'> <FontAwesomeIcon icon={faBriefcase} /> Sample Works</Nav.Link>
             
           </Nav>
           <Nav>

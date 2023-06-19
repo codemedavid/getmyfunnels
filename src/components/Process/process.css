@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&family=Oswald:wght@500;600;700&display=swap');
+.process__wrap{
+  
+    height: 512px;
+    padding: 10px;
+}
+.step{
+    height: 25px;
+    width: 25px;
+    font-size: 12px;
+    background-color: #ffc000;
+    line-height: 25px !important;
+    border-radius: 30px;
+    text-align: center;
+    top: -8px;
+    left: -10px;
+    
+}
+.step-title{
+    font-size: 50px;
+    font-style: bold;
+}
+.process{
+    display: flex;
+    flex-direction: column;
+}
+.process-img img{
+    width: 100px;
+    height: 200px;
+    object-fit: cover;
+}
+.title{
+    flex-direction: column;
+    font-family: 'Intern', sans-serif;
+    font-size: 18px;
+    font-style: bold;
+}
+.process-take-action a{
+    color: #ffd000;
+    text-decoration: none;
+}
+.process{
+    padding: 20px;
+    border-radius: 20px;
+    border: solid 2px transparent;
+    transition: .2s ease-in-out;
+}
+.process:hover{
+    border-radius: 20px;
+    padding: 20px;
+    border: solid 2px #ffd000;
+}
