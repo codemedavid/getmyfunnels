@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import './reportWebVitals';
 import App from './App';
 import '@fortawesome/fontawesome-svg-core/styles.css';
 import reportWebVitals from './reportWebVitals';

@@ -9,8 +9,8 @@ import Upscale from '../../Assets/images/upscale.png'
 import Nwh from '../../Assets/images/nwh.png'
 function Hero() {
   return (
-    <div className='hero'>
-      <video src={BgVideo} autoPlay muted loop className='video-bg'/>
+    <div className='hero' id="home">
+      <video src={BgVideo} autoPlay muted loop className='video-bg h-100 w-100'/>
       <div className="bg-overlay"></div>
       <div className="home-text">
          <h2>Funnel Building <br /> Email Automation <br /> Course Website <br />Social Media Management</h2>
