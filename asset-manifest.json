@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/getmyfunnels/static/css/main.ac5a6805.css",
+    "main.js": "/getmyfunnels/static/js/main.cbeb6fdc.js",
+    "static/js/787.74c0c5d7.chunk.js": "/getmyfunnels/static/js/787.74c0c5d7.chunk.js",
+    "static/media/angelo2.mp4": "/getmyfunnels/static/media/angelo2.53fa4b7c25a02708755e.mp4",
+    "static/media/iphone.gif": "/getmyfunnels/static/media/iphone.afdf30d7b736dc2d2152.gif",
+    "static/media/proart.jpg": "/getmyfunnels/static/media/proart.1e88555576f522420048.jpg",
+    "static/media/google.jpg": "/getmyfunnels/static/media/google.ae93c39c78926152adfc.jpg",
+    "static/media/smm.jpg": "/getmyfunnels/static/media/smm.a861e796e5dd3e1b323a.jpg",
+    "static/media/graphic.jpg": "/getmyfunnels/static/media/graphic.22911d7bafbd2d2b8658.jpg",
+    "static/media/deloitte.jpg": "/getmyfunnels/static/media/deloitte.f1e78057cd1a7b8c793b.jpg",
+    "static/media/production.jpg": "/getmyfunnels/static/media/production.c3aa7edc07b0d25cdbb9.jpg",
+    "static/media/computer.png": "/getmyfunnels/static/media/computer.d1949adf84ea3b9d9cb6.png",
+    "static/media/sizmek.jpg": "/getmyfunnels/static/media/sizmek.6b7aa3c5038adbb18888.jpg",
+    "static/media/nwh.png": "/getmyfunnels/static/media/nwh.5dc5d42f22137e1b12fd.png",
+    "static/media/linkedin.jpg": "/getmyfunnels/static/media/linkedin.05405827723d0760cb88.jpg",
+    "static/media/premiere365.png": "/getmyfunnels/static/media/premiere365.e6cd2b8fe554b9a5b336.png",
+    "static/media/reebok.jpg": "/getmyfunnels/static/media/reebok.afae40c21831e197fe57.jpg",
+    "static/media/upscale.png": "/getmyfunnels/static/media/upscale.91f0f62dae91e1489bb8.png",
+    "static/media/ipad.jpg": "/getmyfunnels/static/media/ipad.9d2fb674ca21d1ff95ea.jpg",
+    "static/media/device.jpg": "/getmyfunnels/static/media/device.b7316b002de0c9bdb79f.jpg",
+    "static/media/social-media.jpg": "/getmyfunnels/static/media/social-media.5b116a9509da51f01fa1.jpg",
+    "static/media/computer2.jpg": "/getmyfunnels/static/media/computer2.bde0d1f9a8133d2e038b.jpg",
+    "index.html": "/getmyfunnels/index.html",
+    "main.ac5a6805.css.map": "/getmyfunnels/static/css/main.ac5a6805.css.map",
+    "main.cbeb6fdc.js.map": "/getmyfunnels/static/js/main.cbeb6fdc.js.map",
+    "787.74c0c5d7.chunk.js.map": "/getmyfunnels/static/js/787.74c0c5d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac5a6805.css",
+    "static/js/main.cbeb6fdc.js"
+  ]
+}
